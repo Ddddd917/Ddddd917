@@ -22,6 +22,8 @@
 
 ## 🌱 长期愿景
 
+> **先进技术不应该是高高在上的。**
+>
 > 我希望让更多人因为 AI 受益，做普惠的 AI，包括那些不会写提示词、不熟悉工具的人。
 >
 > 我对 AI 产品有很强的热情。新的产品出来，我通常第一时间上手去用，比如 Muse、Claude Duet。用得多，才说得出一个产品好在哪、差在哪。
@@ -82,7 +84,7 @@ Computer Science undergraduate at the University of Glasgow (2024–2028), on an
 - **AI Agent Product Intern, ByteDance** (TikTok Monetization · Business Integrity), May–Aug 2026. Embedded in a business team; delivered 5 internal applications from requirements to launch, focused on risk monitoring, alerting and root-cause investigation for advertisers.
 - **Product Manager Intern, AVATR Technology**, Jun–Aug 2025.
 
-**Long-term vision**: make AI benefit more people, including those who cannot write prompts or operate tools.
+**Long-term vision**: advanced technology should not sit out of reach. I want AI to benefit more people, including those who cannot write prompts or operate tools.
 
 Portfolio and full write-ups: <https://ddddd917.github.io/portfolio/resume/>
 
