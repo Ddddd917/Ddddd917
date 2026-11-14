@@ -18,7 +18,7 @@
 > 需求、数据口径、架构、代码评审和验收由我负责，代码用 Claude Code / Codex 写。在字节跳动实习的三个月里，我驻在业务团队，从需求到上线独立交付了 5 个内部应用。
 >
 > **自动化风险监控与预警**<br>
-> 实习期间的应用对应同一条工作链路：监控 → 通知 → 处理 → 反馈。定时取数，按阈值识别异常，通知负责的人，再把处理结果带回监控规则。我自己的课程成绩看板也是照这个思路做的。
+> 实习期间的应用对应同一条工作链路：监控 → 通知 → 处理 → 反馈。定时取数，按阈值识别异常，通知负责的人，再把处理结果带回监控规则。我自己的[课程成绩看板](https://github.com/Ddddd917/canvas-grade-dashboard)也是照这个思路做的。
 
 ## 🌱 长期愿景
 
@@ -42,6 +42,7 @@
 | 项目 | 做了什么 | 技术 |
 |---|---|---|
 | [许bobo · 桌面监工猫](https://github.com/Ddddd917/xubobo-desktop-cat) | 把一只真实的猫变成 macOS 桌面宠物：照片 → AI 生成参考图和循环动作视频 → 原生应用。重构后体积从 80 MB 级降到约 4 MB | Swift · AVPlayerLooper · 即梦 / Seedance |
+| [Canvas 成绩看板](https://github.com/Ddddd917/canvas-grade-dashboard) | 每天定时从 Canvas 读取五门课的作业、截止时间和成绩，用甘特图和待办清单管理学期进度，按大纲权重算出每门课的成绩和目标差距 | 单文件 HTML / JS · Canvas API · 定时任务 |
 | [Teammate Finder](https://github.com/luka-mladjenovic/teammate-finder) | 帮 UF 学生按时间、可靠度和做事方式找项目队友的 Web 应用。HCI 课程 5 人小组项目，我负责 React 前端和可单文件演示的 demo | React · TypeScript · Vite · Flask |
 | [文档智能入库助手](https://github.com/Ddddd917/doc-ingestion-tool) | 把散乱的文档变成结构化知识条目：自动摘要、分类知识域、生成标签 | Python · Streamlit · 智谱 GLM |
 | [Resume Copilot](https://github.com/Ddddd917/personal_resume_analyzer) | 粘贴岗位 JD，和简历做三维匹配评分，给出差距和修改建议 | Python · Streamlit · 智谱 GLM |
