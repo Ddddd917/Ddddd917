@@ -1,15 +1,41 @@
-# 代明昊 · Jasper Dai
+<h1 align="center">Hi 👋 我是代明昊 · Jasper Dai</h1>
 
-计算机科学 · 本科 · AI 产品与研发
+<p align="center">
+  <a href="https://ddddd917.github.io/portfolio/resume/"><b>🌐 完整经历和作品集 →</b></a>
+</p>
 
-我做 AI 产品，也自己把它做出来：需求、数据口径、架构、代码评审和验收由我负责，代码用 Claude Code / Codex 写。
+<p align="center">
+  🎓 计算机科学本科 @ University of Glasgow（2026–27 学年在 University of Florida 交换）<br>
+  💼 AI Agent 产品实习生 @ 字节跳动 · TikTok 商业化 · 商业安全<br>
+  📧 <a href="mailto:daiminghao0917@gmail.com">daiminghao0917@gmail.com</a>
+</p>
 
-- **现在**：格拉斯哥大学计算机科学本科（2024–2028），2026–27 学年在佛罗里达大学交换
-- **实习**：字节跳动 · TikTok 商业化 · 商业安全，AI Agent 产品实习生（2026.05–08）。驻业务团队，三个月从需求到上线独立交付 5 个内部应用，围绕广告主的风险监控、预警和原因排查
-- **更早**：阿维塔科技，产品经理实习生（2025.06–08）
-- **完整经历和作品集**：<https://ddddd917.github.io/portfolio/resume/>
+---
 
-## 项目
+## 🔭 我在做什么
+
+> **做 AI 产品，也自己把它做出来**
+> 需求、数据口径、架构、代码评审和验收由我负责，代码用 Claude Code / Codex 写。在字节跳动实习的三个月里，我驻在业务团队，从需求到上线独立交付了 5 个内部应用。
+>
+> **自动化风险监控与预警**
+> 实习期间的应用对应同一条工作链路：监控 → 通知 → 处理 → 反馈。定时取数，按阈值识别异常，通知负责的人，再把处理结果带回监控规则。我自己的课程成绩看板也是照这个思路做的。
+
+## 🌱 长期愿景
+
+> 我希望让更多人因为 AI 受益，做普惠的 AI，包括那些不会写提示词、不熟悉工具的人。
+>
+> 我对 AI 产品有很强的热情。新的产品出来，我通常第一时间上手去用，比如 Muse、Claude Duet。用得多，才说得出一个产品好在哪、差在哪。
+
+## 💼 经历
+
+- **字节跳动 · TikTok 商业化 · 商业安全** — AI Agent 产品实习生（2026.05 – 2026.08，北京）
+  围绕广告主的风险监控、预警和原因排查，交付 5 个内部应用，另主导 2 个项目的 PRD 与 Web demo。
+- **阿维塔科技** — 产品经理实习生（2025.06 – 2025.08，重庆）
+  售后三包索赔系统重构的需求与流程设计，统筹 OTA 平台二期项目。
+
+实习期间的项目是公司内部应用，代码不公开，介绍见[作品集网站](https://ddddd917.github.io/portfolio/resume/)。
+
+## 🚀 项目
 
 | 项目 | 做了什么 | 技术 |
 |---|---|---|
@@ -19,20 +45,45 @@
 | [Resume Copilot](https://github.com/Ddddd917/personal_resume_analyzer) | 粘贴岗位 JD，和简历做三维匹配评分，给出差距和修改建议 | Python · Streamlit · 智谱 GLM |
 | [ZooStudy](https://github.com/Ddddd917/Zoo_Study) | 把学习时长变成自己动物园的学习打卡应用，Web 开发课程小组项目 | Django |
 
-实习期间的项目是公司内部应用，代码不公开，介绍见[作品集网站](https://ddddd917.github.io/portfolio/resume/)。
+## 🛠 工具
 
-## 联系
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+</p>
 
-daiminghao0917@gmail.com
+项目里的代码主要由 AI 编码工具写，我负责架构、评审和验收。
+
+## 🤝 联系我
+
+<p>
+  <a href="https://ddddd917.github.io/portfolio/resume/"><img src="https://img.shields.io/badge/Portfolio-A55840?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:daiminghao0917@gmail.com"><img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## English
+<details>
+<summary><b>English</b></summary>
 
-Computer Science undergraduate (University of Glasgow, 2024–2028; exchange year at the University of Florida, 2026–27) working on AI products end to end: I own requirements, metric definitions, architecture, code review and acceptance, and build with Claude Code / Codex.
+<br>
 
-- **Internship**: AI Agent Product Intern at ByteDance (TikTok Monetization · Business Integrity), May–Aug 2026. Embedded in a business team and delivered 5 internal applications from requirements to launch, focused on risk monitoring, alerting and root-cause investigation for advertisers.
-- **Earlier**: Product Manager Intern at AVATR Technology, Jun–Aug 2025.
-- **Portfolio and full write-ups**: <https://ddddd917.github.io/portfolio/resume/>
+Computer Science undergraduate at the University of Glasgow (2024–2028), on an exchange year at the University of Florida (2026–27). I work on AI products end to end: I own requirements, metric definitions, architecture, code review and acceptance, and build with Claude Code / Codex.
 
-The project table above links to the repositories. Internship work is internal and is described on the portfolio site.
+- **AI Agent Product Intern, ByteDance** (TikTok Monetization · Business Integrity), May–Aug 2026. Embedded in a business team; delivered 5 internal applications from requirements to launch, focused on risk monitoring, alerting and root-cause investigation for advertisers.
+- **Product Manager Intern, AVATR Technology**, Jun–Aug 2025.
+
+**Long-term vision**: make AI benefit more people, including those who cannot write prompts or operate tools.
+
+Portfolio and full write-ups: <https://ddddd917.github.io/portfolio/resume/>
+
+</details>
