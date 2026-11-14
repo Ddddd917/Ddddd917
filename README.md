@@ -43,7 +43,7 @@
 |---|---|---|
 | [许bobo · 桌面监工猫](https://github.com/Ddddd917/xubobo-desktop-cat) | 把一只真实的猫变成 macOS 桌面宠物：照片 → AI 生成参考图和循环动作视频 → 原生应用。重构后体积从 80 MB 级降到约 4 MB | Swift · AVPlayerLooper · 即梦 / Seedance |
 | [Canvas 成绩看板](https://github.com/Ddddd917/canvas-grade-dashboard) | 每天定时从 Canvas 读取五门课的作业、截止时间和成绩，用甘特图和待办清单管理学期进度，按大纲权重算出每门课的成绩和目标差距 | 单文件 HTML / JS · Canvas API · 定时任务 |
-| [Teammate Finder](https://github.com/luka-mladjenovic/teammate-finder) | 帮 UF 学生按时间、可靠度和做事方式找项目队友的 Web 应用。HCI 课程 5 人小组项目，我负责 React 前端和可单文件演示的 demo | React · TypeScript · Vite · Flask |
+| [Teammate Finder](https://github.com/Ddddd917/teammate-finder) | 帮 UF 学生按时间、可靠度和做事方式找项目队友的 Web 应用（[在线体验](https://lukauf.pythonanywhere.com/)）。HCI 课程 5 人小组项目，我负责 React 前端和可单文件演示的 demo | React · TypeScript · Vite · Flask |
 | [文档智能入库助手](https://github.com/Ddddd917/doc-ingestion-tool) | 把散乱的文档变成结构化知识条目：自动摘要、分类知识域、生成标签 | Python · Streamlit · 智谱 GLM |
 | [Resume Copilot](https://github.com/Ddddd917/personal_resume_analyzer) | 粘贴岗位 JD，和简历做三维匹配评分，给出差距和修改建议 | Python · Streamlit · 智谱 GLM |
 | [ZooStudy](https://github.com/Ddddd917/Zoo_Study) | 把学习时长变成自己动物园的学习打卡应用，Web 开发课程小组项目 | Django |
